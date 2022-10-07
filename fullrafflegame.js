@@ -1,3 +1,4 @@
+//this helps node understand what prompt() is
 const prompt = require('prompt-sync')();
 var nextSteps = 1;
 const activeRaffles = [];
